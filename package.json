@@ -1,0 +1,16 @@
+{
+  "name": "pink-queen-md",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot built using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "pino": "^8.14.0",
+    "fs-extra": "^11.1.1"
+  },
+  "author": "PINk QUEEN MD",
+  "license": "MIT"
+}
